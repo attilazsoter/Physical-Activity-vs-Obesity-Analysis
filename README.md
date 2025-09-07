@@ -19,7 +19,9 @@ Provide evidence-based insights that could support health policy initiatives and
 Dataset: Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System (BRFSS)
 Published by: U.S. Department of Health & Human Services
 
-Dataset (CSV format): https://healthdata.gov/dataset/Nutrition-Physical-Activity-and-Obesity-Behavioral/fhdq-98vk/about_data
+Dataset (CSV format):
+https://healthdata.gov/dataset/Nutrition-Physical-Activity-and-Obesity-Behavioral/fhdq-98vk/about_data
+or can also be downloaded from this link: https://drive.google.com/file/d/1l7RbrYVfjCWwTyUzMVaOGzyHeRV9Sih4/view?usp=drive_link
 
 Data Dictionary (key metadata): https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/about_data
 
